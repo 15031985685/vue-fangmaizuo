@@ -8,8 +8,8 @@ import Mint from 'mint-ui'
 import 'mint-ui/lib/style.css'
 
 // es6 两种导入方法
-import AllObj from './module/moduleB'
-import { A1 as myA1, A2 } from './module/moduleA'
+// import AllObj from './module/moduleB'
+// import { A1 as myA1, A2 } from './module/moduleA'
 Vue.use(Mint)
 // console.log('ES6引入方法' + AllObj)
 // console.log('ES6引入方法' + myA1 + '---' + A2)

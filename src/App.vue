@@ -55,8 +55,6 @@ export default {
         }
       }).then(res => {
       })
-        .catch(err => {
-        })
     }
   },
   components: {
